@@ -1,0 +1,10 @@
+{
+  "minify": true,
+  "options": [
+    "mq",
+    "testStyles",
+    "html5shiv",
+    "setClasses"
+  ],
+  "feature-detects": []
+}
